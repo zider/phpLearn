@@ -1,0 +1,7 @@
+.idea
+composer.lock
+*.log
+*.icon
+tp5/
+wamplangues/
+wampthemes/
